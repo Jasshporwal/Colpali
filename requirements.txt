@@ -1,0 +1,10 @@
+fastapi>=0.68.0
+uvicorn==0.15.0
+colpali_engine==0.1.1
+mteb>=1.15.3
+torch>=2.2.0
+transformers>=4.41.1
+Pillow==8.3.1
+tqdm>=4.62.2
+numpy==1.21.2
+pinecone-client==2.2.1
